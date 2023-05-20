@@ -1,0 +1,52 @@
+[
+  {
+    "_id": "645a0e8581635a68e0f6b05",
+    "category_id": 1,
+    "picture": "https://i.ibb.co/LCJSd4H/car2.jpg",
+    "name": "Jeep Wrangler",
+    "price": 2219.99,
+    "rating": 9.5
+  },
+  {
+    "_id": "645b0e8581635a68e0f6b05",
+    "category_id": 1,
+    "picture": "https://i.ibb.co/tDJgpMf/car7.jpg",
+    "name": "Jeep Cherokee",
+    "price": 2319.99,
+    "rating": 8.5
+  },
+
+  {
+    "_id": "645c0e8581635a68e0f6b05",
+    "category_id": 2,
+    "picture": "https://i.ibb.co/fG8NvD1/car11.jpg",
+    "name": "Volkswagen Golf",
+    "price": 2124.99,
+    "rating": 9.8
+  },
+  {
+    "_id": "645d0e8581635a68e0f6b05",
+    "category_id": 2,
+    "picture": "https://i.ibb.co/VVkxRFK/car9.jpg",
+    "name": "Mazda3 Hatchback",
+    "price": 1914.99,
+    "rating": 7.2
+  },
+
+  {
+    "_id": "645e0e8581635a68e0f6b05",
+    "category_id": 3,
+    "picture": "https://i.ibb.co/DGZbNK0/car4.jpg",
+    "name": "Mazda MX-5 Miata",
+    "price": 1529.99,
+    "rating": 9.7
+  },
+  {
+    "_id": "645f0e8581635a68e0f6b05",
+    "category_id": 3,
+    "picture": "https://i.ibb.co/LdWhQM8/car5.jpg",
+    "name": "Porsche 911 Cabriole",
+    "price": 1229.99,
+    "rating": 8.7
+  }
+]
